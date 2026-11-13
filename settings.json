@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "pro",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Trybestmod.aternos.me",
